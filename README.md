@@ -2,8 +2,8 @@
 <h3 align="center">I'm from <a
         href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://en.m.wikipedia.org/wiki/Uzbekistan&ved=2ahUKEwixyKi6nor4AhVHgosKHd6cBCkQFnoECA8QAQ&usg=AOvVaw3t3GDa5eCuBEE2trNATVb5">Uzbekistan</a>
 </h3>
-<p>- 🌱 I’m currently learning Django, React</p>
-<p>- 🤔 I’m looking for help with React</p>
+<p>- 🌱 I’m currently learning Django, Python</p>
+<p>- 🤔 I’m looking for help with Python</p>
 <p>- 📫 How to reach me: <a href="mailto:bekzodbekk2006@gmail.com">bekzodbekk2006@gmail.com</a></p>
 
 <h3 align="left">Connect with me:</h3>
