@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Bekzodbek</h1>
-<h3 align="center">I'm from <a target="_blank" href="https://en.m.wikipedia.org/wiki/Uzbekistan">Uzbekistan</a> </h3>
+<h3 align="center">I'm from <a  href="https://en.m.wikipedia.org/wiki/Uzbekistan" target="_blank">Uzbekistan</a> </h3>
 
 <p>- 🌱 I’m currently learning Django, Python</p>
 <p>- 🤔 I’m looking for help with Furn Master</p>
