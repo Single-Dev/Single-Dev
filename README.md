@@ -1,16 +1,13 @@
  <h1 align="center">Hi 👋, I'm Bekzodbek</h1>
-<h3 align="center">I'm from <a
-        href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://en.m.wikipedia.org/wiki/Uzbekistan&ved=2ahUKEwixyKi6nor4AhVHgosKHd6cBCkQFnoECA8QAQ&usg=AOvVaw3t3GDa5eCuBEE2trNATVb5">Uzbekistan</a>
-</h3>
+<h3 align="center">I'm from <a target="_blank" href="https://en.m.wikipedia.org/wiki/Uzbekistan">Uzbekistan</a> </h3>
+
 <p>- 🌱 I’m currently learning Django, Python</p>
-<p>- 🤔 I’m looking for help with Python</p>
+<p>- 🤔 I’m looking for help with Furn Master</p>
 <p>- 📫 How to reach me: <a href="mailto:bekzodbekk2006@gmail.com">bekzodbekk2006@gmail.com</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/webdev06" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="webdev06" height="30" width="40" /></a>
+    <a href="https://twitter.com/webdev06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webdev06" height="30" width="40" /></a>
 
 
 </p>
@@ -33,6 +30,7 @@
             alt="javascript" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> </p>
+            alt="python" width="40" height="40" /> </a>
+            <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
+ </p>
