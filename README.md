@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Bekzodbek</h1>
 <h3 align="center">I'm from <a  href="https://en.m.wikipedia.org/wiki/Uzbekistan" target="_blank">Uzbekistan</a> </h3>
 
-<p>- 🌱 I’m currently learning Django, Python</p>
-<p>- 🤔 I’m looking for help with Furn Master</p>
+<p>- 🌱 I’m currently learning Python, Django</p>
+<p>- 🤔 I’m looking for help with ...</p>
 <p>- 📫 How to reach me: <a href="mailto:bekzodbekk2006@gmail.com">bekzodbekk2006@gmail.com</a></p>
 
 <h3 align="left">Connect with me:</h3>
