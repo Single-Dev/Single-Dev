@@ -2,7 +2,8 @@
 <h3 align="center">I'm from <a  href="https://en.m.wikipedia.org/wiki/Uzbekistan" target="_blank">Uzbekistan</a> </h3>
 
 <p>- 🌱 I’m currently learning Python, Django</p>
-<p>- 🤔 I’m looking for help with ...</p>
+<p>- 🤔 I’m looking for help with <a href="https://github.com/Bekzodbek2006/Forms">Forms</a></p>
+<p>- 🎗 See my 2022 contributions in <a href="https://skyline.github.com/bekzodbek2006/2022">3d (here)</a>
 <p>- 📫 How to reach me: <a href="mailto:bekzodbekk2006@gmail.com">bekzodbekk2006@gmail.com</a></p>
 
 <h3 align="left">Connect with me:</h3>
