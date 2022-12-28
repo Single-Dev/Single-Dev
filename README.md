@@ -2,8 +2,8 @@
 <h3 align="center">I'm from <a  href="https://en.m.wikipedia.org/wiki/Uzbekistan" target="_blank">Uzbekistan</a> </h3>
 
 <p>- 🌱 I’m currently learning <a href="https://python.org">Python</a>, <a href="https://docs.djangoproject.com">Django</a></p>
-<p>- 🤔 I’m looking for help with <a href="https://github.com/Bekzodbek2006/Forms">Forms</a></p>
-<p>- 🎗 See my 2022 contributions in <a href="https://skyline.github.com/bekzodbek2006/2022">3d (here)</a>
+<p>- 🤔 I’m looking for help with <a href="https://github.com/single-dev/Forms">Forms</a></p>
+<p>- 🎗 See my 2022 contributions in <a href="https://skyline.github.com/single-dev/2022">3d (here)</a>
 <p>- 📫 How to reach me: <a href="mailto:bekzodbek@programmer.net">bekzodbek@programmer.net</a></p>
 
 <h3 align="left">Connect with me:</h3>
