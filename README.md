@@ -8,7 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://aristocratdev.t.me/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png alt="webdev06" height="30" width="40" /></a>
+    <a href="https://aristocratdev.t.me/" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"
+        alt="Bekzodbek" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,7 +23,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
     </a>
     <a href="https://www.djangoproject.com/" target="_blank"rel="noreferrer">
-        <img src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png" alt="django" height="40" width="40" />
+        <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="django" height="40" width="40" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank"rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
