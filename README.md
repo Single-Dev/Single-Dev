@@ -1,35 +1,34 @@
  <h1 align="center">Hi 👋, I'm Bekzodbek</h1>
 <h3 align="center">I'm from <a  href="https://en.m.wikipedia.org/wiki/Uzbekistan" target="_blank">Uzbekistan</a> </h3>
 
-<p>- 🌱 I’m currently learning <a href="https://python.org">Python</a>, <a href="https://docs.djangoproject.com">Django</a></p>
+<p>- 🌱 I’m currently learning <a href="https://python.org" target="_blank">Python</a>, <a href="https://docs.djangoproject.com" target="_blank">Django</a></p>
 <p>- 🤔 I’m looking for help with <a href="https://github.com/single-dev/Forms">Forms</a></p>
-<p>- 🎗 See my 2022 contributions in <a href="https://skyline.github.com/single-dev/2022">3d (here)</a>
+<p>- 🎗 See my 2022 contributions in <a href="https://skyline.github.com/single-dev/2022" target="_blank">3d (here)</a>
 <p>- 📫 How to reach me: <a href="mailto:bekzodbek@programmer.net">bekzodbek@programmer.net</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/webdev06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webdev06" height="30" width="40" /></a>
-
-
+    <a href="https://aristocratdev.t.me/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png alt="webdev06" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://github.com/Bekzodbek2006/Attorneyster/blob/main/static/imgs/contact/django-removebg-preview.png"
-            alt="django" height="40" width="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
+<p align="left">
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank"rel="noreferrer">
+        <img src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png" alt="django" height="40" width="40" />
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank"rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    </a>
  </p>
