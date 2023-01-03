@@ -10,7 +10,7 @@
 <p align="left">
     <a href="https://aristocratdev.t.me/" target="_blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"
-        alt="Bekzodbek" height="30" width="40" />
+        alt="Bekzodbek" height="40" width="40" />
     </a>
 </p>
 
