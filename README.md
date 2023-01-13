@@ -3,7 +3,10 @@
 
 <p>- 🌱 I’m currently learning <a href="https://python.org" target="_blank">Python</a>, <a href="https://docs.djangoproject.com" target="_blank">Django</a></p>
 <p>- 🤔 I’m looking for help with <a href="https://github.com/single-dev/Forms">Forms</a></p>
-<p>- 🎗 See my 2022 contributions in <a href="https://skyline.github.com/single-dev/2022" target="_blank">3d (here)</a>
+<p>- 🎗 See my contributions in 3d
+<a href="https://skyline.github.com/single-dev/2022" target="_blank">2022</a>
+<a href="https://skyline.github.com/single-dev/2023" target="_blank">2023</a>
+</p>
 <p>- 📫 How to reach me: <a href="mailto:bekzodbek@programmer.net">bekzodbek@programmer.net</a></p>
 
 <h3 align="left">Connect with me:</h3>
