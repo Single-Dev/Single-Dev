@@ -7,7 +7,7 @@
 <a href="https://skyline.github.com/single-dev/2022" target="_blank">2022 </a>|
 <a href="https://skyline.github.com/single-dev/2023" target="_blank"> 2023</a>
 </p>
-<p>- 📫 How to reach me: <a href="mailto:bekzodbek@programmer.net">bekzodbek@programmer.net</a></p>
+<p>- 📫 How to reach me: <a href="mailto:singledev68">singledev68@gmail.com</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
