@@ -9,12 +9,9 @@
 <p>- 📫 How to reach me: <a href='mailto:single-dev@outlook.com'>single-dev@outlook.com</a></p>
 <p>- 📄 Know about my experiences <a href="https://github.com/Single-Dev/Single-Dev/blob/main/cv.pdf">resume.pdf</a></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://aristocratdev.t.me/" >
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Bekzodbek" height="40" width="40" />
-    </a>
-</p>
+<h3 align="left">My GitHub stats:</h3>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=single-dev&count_private=true&theme=tokyonight&showicons=true)]()
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -37,3 +34,5 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
     </a>
  </p>
+ 
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=single-dev&langs_count=5&theme=tokyonight)]()
