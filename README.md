@@ -36,5 +36,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
     </a>
  </p>
- 
- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=single-dev&langs_count=5&theme=merko&hide_progress=true)](https://github.com/Single-Dev/)
