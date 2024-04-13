@@ -6,7 +6,7 @@
 <a href="https://skyline.github.com/single-dev/2022">2022 </a>|
 <a href="https://skyline.github.com/single-dev/2023"> 2023</a>
 </p>
-<p>- 📫 How to reach me: <a href='mailto:single-dev@outlook.com'>single-dev@outlook.com</a></p>
+<p>- 📫 How to reach me: <a href='mailto:beckzodiy@icloud.com'>beckzodiy@icloud.com</a></p>
 
 
 
