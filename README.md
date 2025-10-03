@@ -21,15 +21,14 @@
 ---
 
 ## 🧍‍♂️ A Little More About Me
-
-- I don’t post myself publicly, but I’ve got some cool photos on [Instagram](https://instagram.com/beckzodiy) 😎  
+  
 - I take coding personally — if it works, it’s a win; if it breaks, I fix it till it listens!  
 - I’m from Uzbekistan 🇺🇿 and currently in the UAE 🇦🇪 — I speak Uzbek, English, and some Russian  
 - I’m the type of guy who says “I’ll just test this one more thing…” and then it’s 4 AM 😅  
 - Coffee is my debugger ☕ (and sometimes my breakfast)  
 - I’m always building something — even if no one sees it. Ideas don’t wait!  
 - If I ever go quiet, I’m either coding… or writing a poem.
-
+- I'm single but not aviable except for [@the40kgbug](instagram.com/the40kgbug)
 ---
 
 ## 🛠️ Tech Stack
