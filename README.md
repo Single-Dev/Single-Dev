@@ -28,7 +28,7 @@
 - Coffee is my debugger ☕ (and sometimes my breakfast)  
 - I’m always building something — even if no one sees it. Ideas don’t wait!  
 - If I ever go quiet, I’m either coding… or writing a poem.
-- I'm single but not aviable except for [@the40kgbug](instagram.com/the40kgbug)
+- I'm single but not aviable except for [@the40kgbug](https://instagram.com/the40kgbug)
 ---
 
 ## 🛠️ Tech Stack
